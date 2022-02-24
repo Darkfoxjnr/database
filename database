@@ -1,6 +1,10 @@
 {
+    "mad": "mad",
     "security": {
         "username": "101",
         "password": "101",
+    },
+    "lol": {
+        "mad": "yes",
     },
 }
